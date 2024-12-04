@@ -2,3 +2,4 @@ flask
 flask-cors
 mysql-connector-python
 requests
+python-dotenv
